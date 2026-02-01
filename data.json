@@ -1,0 +1,63 @@
+{
+    "about": "Hi! I'm Alinus! I'm a Computer Science Student! I'm aspiring to be a Software Developer! <br> I love coding, gaming, and reading light novels! The design of this portfolio was inspired by Zenless Zone Zero's UI!",
+    "bio": "I'm currently a student of Ateneo de Manila University",
+    "contact": "You can contact me on my email! <a href='mailto:aabuke9@gmail.com'>aabuke9@gmail.com</a>. <br>My phone number is +639613985127.",
+    "mission": "I aim to be a Software Developer that creates software that can help people in their daily lives. <br> I also want to continuously improve my skills as a programmer and as a person.",
+    "tskills": "I am proficient in programming",
+    "platforms": "I started with <i class='devicon-csharp-plain icon' title='C#'></i>, and then <i class='devicon-python-plain icon' title='Python'></i>, <i class='devicon-java-plain-wordmark icon' title='Java'></i>,<i class='devicon-html5-plain-wordmark icon' title='HTML5'></i>, <i class='devicon-css3-plain-wordmark icon' title='CSS3'></i>, <i class='devicon-javascript-plain icon' title='JavaScript'></i>, <i class='devicon-cplusplus-plain icon' title='C++'></i>. <br> I have experience with web development using <i class='devicon-django-plain-wordmark icon' title='Django'></i>.<br> I also have experience with game development using <i class='devicon-godot-plain-wordmark icon' title='Godot'></i> engine. I also learned <i class='devicon-r-plain icon' title='R'></i> in statistics. <br>I also know <i class='devicon-solidity-plain icon' title='Solidity'></i> and I have experience in creating smart contracts in the ETH blockchain.",
+    "acad": "I'm Currently a Computer Science Scholar in <a href='https://www.admu.edu.ph'>Ateneo de Manila University</a>! <br>I was a former student of and member of the robotics team of <a href='https://www.facebook.com/valmasci2015'> Valenzuela City School of Mathematics and Science.</a>",
+    "extra": "<a href='https://goodymind.itch.io/miguel' target='_blank'>Miguel</a>: An Interactive Visual Novel Murder Mystery Game where you take the role of an investigator searching for the culprit inspired by 3 Filipino novels <br> <a href='https://github.com/Goodymind/ConNEXT' target='_blank'>ConNEXT</a>: A Python code flowchart generator. Creating organized flowcharts of Python code. <br> <a href='https://github.com/Goodymind/PhySim' target='_blank'>PhySim</a>: A Physics Simulation Software designed to help highschool students learn Angular Physics Concepts",
+    "extra2": "<a href='https://github.com/Goodymind/Karaoke' target='_blank'>Karaoke</a>: A simple Karaoke app made where everything is programmed in Java, even the art! <br> <a href='https://github.com/r1tsuuu/2D-Prop-Hunt' target='_blank'>Prop Hunt</a>: A 2d 2-Player Networking Game where two players take turns hunting each down in Hide and Seek <br> <a href='https://goodymind.itch.io/formr-glory' target='_blank'>Form'r Glory</a>: My Entry for the 2022 GMTK Game Jam: Roll of the Dice. Players choose which enemies appear on the dice that they will face in battle.",
+    "default": "Hover the Images to know more about me! Click to lock where you are currently hovering",
+    "defaultpics": [
+        "img/me.jpg",
+        "img/shs.jpg",
+        "img/valsci.jpg"
+    ],
+    "aboutpics": [
+        "img/srs_me.jpg",
+        "img/shs.jpg",
+        "img/me_chair.jpg"
+    ],
+    "biopics": [
+        "img/me.jpg",
+        "img/shs.jpg",
+        "img/tgr.jpg"
+    ],
+    "contactpics": [
+        "img/me.jpg",
+        "img/shs.jpg",
+        "img/tagisang.jpg"
+    ],
+    "missionpics": [
+        "img/me.jpg",
+        "img/yfs.jpg",
+        "img/yfs-booth.jpg"
+    ],
+    "tskillspics": [
+        "img/me.jpg",
+        "img/programming.png",
+        "img/tgr.jpg"
+    ],
+    "platformspics": [
+        "img/django.png",
+        "img/programming.png",
+        "img/css_flowers.png"
+    ],
+    "acadpics": [
+        "img/tgr.jpg",
+        "img/admu.png",
+        "img/valsci.jpg"
+    ],
+    "extrapics": [
+        "img/miguel_cover.png",
+        "img/ConNEXT_gimp.png",
+        "img/physim_logo.png"
+    ],
+    "extra2pics": [
+        "img/karaoke_creep.png",
+        "img/prop_hunt.png",
+        "img/formr_glory.jpg"
+    ]
+}
+
